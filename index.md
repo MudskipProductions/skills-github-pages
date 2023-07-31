@@ -13,7 +13,7 @@ A two-person indie studio.
     </head>
     <style>
         body{
-            background-color:rgb(255, 33, 48);
+            background-color:rgb(0, 50, 70);
             color:white;
         }
     </style>
